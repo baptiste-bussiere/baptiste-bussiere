@@ -19,7 +19,7 @@ Je suis motivé et je ne demande qu'une chose : Apprendre.
 ![scss](https://img.shields.io/badge/-Scss-CC6699?logo=sass&logoColor=white&style=flat-square)
 ![css](https://img.shields.io/badge/-Css-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat-square)
-![vue](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)
 ![php](https://img.shields.io/badge/-Php-777BB4?logo=php&logoColor=white&style=flat-square)
