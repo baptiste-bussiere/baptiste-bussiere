@@ -1,7 +1,7 @@
 # Hi, I'm Baptiste ! 👋
 
 - 🎓 Etudiant en MMI à l'IUT de troyes
-- 👨🏻‍💻 En recherche d'alternance à partir de septembre 2022
+
 
 
 
