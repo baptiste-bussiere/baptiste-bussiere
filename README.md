@@ -23,6 +23,7 @@ Je suis motivé et je ne demande qu'une chose : Apprendre.
 ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)
 ![php](https://img.shields.io/badge/-Php-777BB4?logo=php&logoColor=white&style=flat-square)
+![js](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
 
 
 
