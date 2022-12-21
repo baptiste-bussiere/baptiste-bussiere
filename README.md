@@ -33,7 +33,6 @@ Je suis motivé et je ne demande qu'une chose : Apprendre.
 ![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![vue](https://img.shields.io/badge/-VueJS-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 ![symfony](https://img.shields.io/badge/-Symfony-000?logo=symfony&logoColor=white&style=flat-square)
-![angular](https://img.shields.io/badge/-AngularJS-E23237?logo=AngularJs&logoColor=white&style=flat-square)
 
 
 🤜 Les outils que j'utilise
