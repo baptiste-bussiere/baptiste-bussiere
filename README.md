@@ -1,15 +1,3 @@
-# Hi, I'm Baptiste ! 👋
-
-- 🎓 Etudiant en MMI à l'IUT de troyes
-
-
-
-
-## 🚀 A propos de moi
-Depuis mon plus jeune age, je suis passionné de technologie. Aujourd'hui je veux développer mes competences tout en transmettant les miennes. 
-Je suis motivé et je ne demande qu'une chose : Apprendre.
-
-
 ## 🛠 Compétences
 
 🤜 Ce que je sais 
